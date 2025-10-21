@@ -1,0 +1,14 @@
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 環境設定
+.env
+.DS_Store
+
+# IDE関連
+.vscode/
+.idea/
+
